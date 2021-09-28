@@ -1,0 +1,4 @@
+﻿  Database.cpp
+C:\Users\lolak\source\repos\Database\Database\Database.cpp(118): warning C4715: Car::refresh: значение возвращается не при всех путях выполнения
+C:\Users\lolak\source\repos\Database\Database\Database.cpp(222): warning C4715: Car::deletecar: значение возвращается не при всех путях выполнения
+  Database.vcxproj -> C:\Users\lolak\source\repos\Database\Debug\Database.exe
